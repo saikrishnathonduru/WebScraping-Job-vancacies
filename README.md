@@ -1,1 +1,1 @@
-# WebScraping-Job-vancacies
+# WebScraping-Job-vacancies
